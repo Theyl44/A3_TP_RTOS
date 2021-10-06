@@ -1,0 +1,27 @@
+Tache_arrivee : compteur= 0,B2=0, B1=0,B0=1
+Tache_arrivee : compteur= 1,B2=0, B1=1,B0=1
+Tache_arrivee : compteur= 2,B2=0, B1=0,B0=1
+Tache_arrivee : compteur= 3,B2=0, B1=1,B0=0
+Tache_arrivee : compteur= 4,B2=0, B1=1,B0=1
+Tache_arrivee : compteur= 5,B2=0, B1=0,B0=0
+Tache_arrivee : compteur= 6,B2=0, B1=0,B0=1
+Tache_arrivee : compteur= 7,B2=0, B1=1,B0=1
+Tache_arrivee : compteur= 8,B2=0, B1=0,B0=1
+Tache_arrivee : compteur= 9,B2=0, B1=1,B0=0
+Tache_arrivee : compteur= 10,B2=0, B1=1,B0=1
+Tache_arrivee : compteur= 11,B2=0, B1=0,B0=0
+Tache_arrivee : compteur= 12,B2=0, B1=0,B0=1
+Tache_arrivee : compteur= 13,B2=0, B1=1,B0=1
+Tache_arrivee : compteur= 14,B2=0, B1=0,B0=1
+Tache_arrivee : compteur= 15,B2=0, B1=1,B0=0
+Tache_arrivee : compteur= 16,B2=0, B1=1,B0=1
+Tache_arrivee : compteur= 17,B2=0, B1=0,B0=0
+Tache_arrivee : compteur= 18,B2=0, B1=0,B0=1
+Tache_arrivee : compteur= 19,B2=0, B1=1,B0=1
+Tache_arrivee : compteur= 20,B2=0, B1=0,B0=1
+Tache_arrivee : compteur= 21,B2=0, B1=1,B0=0
+Tache_arrivee : compteur= 22,B2=0, B1=1,B0=1
+Tache_arrivee : compteur= 23,B2=0, B1=0,B0=0
+Tache_arrivee : compteur= 24,B2=0, B1=0,B0=1
+Tache_arrivee : compteur= 25,B2=0, B1=1,B0=1
+
